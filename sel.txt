@@ -1,0 +1,4 @@
+print("nama saya selo qholid akbar")
+print("kelas x rpl 1")
+print("umur 15 tahun")
+print("hobi saya futsal")
